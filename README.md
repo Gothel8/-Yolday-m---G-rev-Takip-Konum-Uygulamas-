@@ -59,6 +59,7 @@ Uygulama, görev yönetimi ile harita entegrasyonunu bir araya getirerek kullan�
 ### 3. Harita Ekranı (Konum Seçme)
 <img src="screenshots/map.jpg" alt="Harita Ekranı" width="200"/>
 - Kullanıcı konumu, görev markerları ve seçilen konumun gösterildiği ekran.
+  
 - Mavi= Kullanıcı konumu Kırmızı= Önceden eklenen görevin konumu Yeşil= Yeni seçilen konum
 
 ### 4. Görev Detay Ekranı
