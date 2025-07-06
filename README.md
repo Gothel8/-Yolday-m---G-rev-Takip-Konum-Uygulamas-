@@ -49,23 +49,23 @@ Uygulama, görev yönetimi ile harita entegrasyonunu bir araya getirerek kullan�
 ## Ekran Görüntüleri
 
 ### 1. Ana Sayfa (Görev Listesi)
-<img src="screenshots/home.jpg" alt="Ana Sayfa" width="300"/>
+<img src="screenshots/home.jpg" alt="Ana Sayfa" width="200"/>
 - Tüm görevlerin listelendiği, filtre ve sıralama seçeneklerinin olduğu ekran.
 
 ### 2. Yeni Görev Ekleme Ekranı
-<img src="screenshots/add-task.jpg" alt="Yeni Görev Ekle" width="300"/>
+<img src="screenshots/add-task.jpg" alt="Yeni Görev Ekle" width="200"/>
 - Başlık, açıklama ve konum seçme butonunun olduğu ekran.
 
 ### 3. Harita Ekranı (Konum Seçme)
-<img src="screenshots/map.jpg" alt="Harita Ekranı" width="300"/>
+<img src="screenshots/map.jpg" alt="Harita Ekranı" width="200"/>
 - Kullanıcı konumu, görev markerları ve seçilen konumun gösterildiği ekran.
 
 ### 4. Görev Detay Ekranı
-<img src="screenshots/detail.jpg" alt="Görev Detay" width="300"/>
+<img src="screenshots/detail.jpg" alt="Görev Detay" width="200"/>
 - Görev başlığı, açıklaması ve varsa harita üzerinde konumun gösterildiği ekran.
 
 ### 5. Rota (Polyline) Gösterimi
-<img src="screenshots/polyline.jpg" alt="Rota Çizgisi" width="300"/>
+<img src="screenshots/polyline.jpg" alt="Rota Çizgisi" width="200"/>
 - Kullanıcı konumundan seçilen konuma rota çizgisinin (polyline) gösterildiği harita ekranı.
 
 
